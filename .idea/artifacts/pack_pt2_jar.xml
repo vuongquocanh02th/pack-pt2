@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pack-pt2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pack_pt2_jar</output-path>
+    <root id="archive" name="pack-pt2.jar">
+      <element id="module-output" name="pack-pt2" />
+    </root>
+  </artifact>
+</component>
